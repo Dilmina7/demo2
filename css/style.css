@@ -1,0 +1,48 @@
+.graph {
+    color: blue;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: black;
+    text-align: justify;
+    cellpadding: 40px;
+    margin: 20px;
+}
+
+.heading {
+    color: cornflowerblue;
+    background-color: black;
+    text-align: center;
+    cellpadding: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.button {
+    background-color: black;
+    color: cornflowerblue;
+    text-align: center;
+    cellpadding: 40px;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+.button:hover {
+    background-color: rgb(6, 35, 88);
+    color: rgb(203, 38, 38);
+
+}
+
+.button:active {
+    background-color: rgb(145, 167, 208);
+    color: rgb(48, 12, 12);
+}
+
+body {
+    background-image: url(https://images.pexels.com/photos/15838266/pexels-photo-15838266/free-photo-of-camping-among-trees-with-city-behind-at-night.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
